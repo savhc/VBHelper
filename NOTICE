@@ -1,0 +1,55 @@
+VBHelper
+Copyright 2026 savhc
+
+This product is licensed under the Apache License, Version 2.0.
+See the LICENSE file for the full text.
+
+---
+
+## Third-Party Notices
+
+### lx-music-desktop
+
+Copyright (c) lyswhut
+Licensed under the Apache License, Version 2.0
+https://github.com/lyswhut/lx-music-desktop
+
+The music module implements the userApi v2.0.0 protocol defined by
+lx-music-desktop, and the platform request parameters follow the behaviour of
+that project. No source files from lx-music-desktop are bundled or
+distributed; this project loads user-supplied source scripts at runtime.
+
+### Feather Icons
+
+Copyright (c) 2013-2017 Cole Bemis
+Licensed under the MIT License
+https://feathericons.com
+
+Bundled as vbhelper/assets/feather.ttf. Full licence text:
+vbhelper/assets/LICENSE-feather.txt
+
+### Pillow
+
+Copyright (c) 2010-2026 Jeffrey A. Clark and contributors
+Licensed under the MIT-CMU License
+https://python-pillow.org
+
+### psutil
+
+Copyright (c) 2009 Giampaolo Rodola
+Licensed under the BSD 3-Clause License
+https://github.com/giampaolo/psutil
+
+### certifi
+
+Licensed under the Mozilla Public License 2.0
+https://github.com/certifi/python-certifi
+
+---
+
+## Trademarks
+
+Product names, logos, and platform names referenced in this project
+(Kuwo, Kugou, QQ Music, NetEase Cloud Music, Migu, and others) are the
+property of their respective owners. This project is not affiliated with,
+endorsed by, or sponsored by any of them.

@@ -1,0 +1,6 @@
+# 运行期依赖。Tk、ctypes、sqlite3、urllib 均来自标准库，不在此列。
+Pillow>=10.0,<13
+psutil>=5.9,<8
+certifi>=2024.0
+
+# 打包（可选）：python -m pip install pyinstaller>=6.21
