@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 构建产物
+build*/
+dist*/
+*.manifest
+
+# 截图、临时目录、本地实验
+*.png
+!vbhelper/assets/*.png
+!docs/**/*.png
+_shots/
+_t*/
+_ui_runtime_tmp/
+_diag/
+*.log
+*.tmp
+
+# 第三方参考源码（只在本地，不入库）
+ref/lx-music-desktop/
+
+# 编辑器与本地 agent 工作目录
+.workbuddy/
+.workbuddy-ai/
+.freebuff/
+.vscode/
+.idea/
+
+# 其他
+vbhelper/.git_nested_backup/
